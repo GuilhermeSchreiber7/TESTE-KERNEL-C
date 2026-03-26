@@ -1,0 +1,4 @@
+Aluno: GUILHERME SCHREIBER
+PID do processo: 743
+Data: 25/03/2026
+Teste prático de interação com Kernel
