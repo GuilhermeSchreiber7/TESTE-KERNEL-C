@@ -1,1 +1,0 @@
-# TESTE-KERNEL-C
